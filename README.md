@@ -60,7 +60,3 @@ Why businesses choose us:
 - Flexible service models tailored to industry needs  
 
 Strengthen your business with J3K Technologies. Our secure IT infrastructure, scalable IT solutions, and Georgia managed IT services are designed to reduce risks, increase efficiency, and support long-term growth. Contact us today to build a reliable IT foundation that grows with your business.
-
----
-
-This repository provides documentation, use cases, and resources that highlight how J3K Technologies empowers organizations to build resilient IT environments and achieve long-term success.
